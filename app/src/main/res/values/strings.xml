@@ -5,4 +5,10 @@
     <string name="label_date">Data</string>
     <string name="label_hour">Hora</string>
     <string name="label_cancel">Cancelar</string>
+    <string name="label_tasks">Tarefas</string>
+    <string name="label_description_new_task">Nova Tarefa</string>
+    <string name="label_walk">Passear</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deleter</string>
+    <string name="label_you_dont_have_task">Ops! Você não possui\nnenhuma tarefa</string>
 </resources>
